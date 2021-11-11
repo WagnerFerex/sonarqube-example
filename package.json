@@ -1,0 +1,23 @@
+{
+  "name": "sonarqube-example",
+  "version": "1.0.0",
+  "description": "Criando um projeto com sonar",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WagnerFerex/sonarqube-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WagnerFerex/sonarqube-example/issues"
+  },
+  "homepage": "https://github.com/WagnerFerex/sonarqube-example#readme"
+}
